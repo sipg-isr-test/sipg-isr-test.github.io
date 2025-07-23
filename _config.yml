@@ -43,8 +43,8 @@ people:
       url:
 
 - name: Diogo Araújo
-  pic: 
-  position: 
+  pic: NoPhoto
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -61,7 +61,7 @@ people:
 
 - name: Francisco Maria Calisto
   pic: FransciscoCalisto
-  position: 
+  position: Research Assistant
   social:
     - icon: fas
       title: user
@@ -77,7 +77,23 @@ people:
 
 - name: João Carvalho
   pic: JoaoCarvalho
-  position: 
+  position: Ph.D. Student
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: José Celestino
+  pic: NoPhoto
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -93,7 +109,23 @@ people:
 
 - name: Miguel Dias
   pic: MiguelDias
-  position: 
+  position: Ph.D. Student
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Manuel Ferreira
+  pic: NoPhoto
+  position: Research Fellow
   social:
     - icon: fas
       title: user
@@ -109,7 +141,23 @@ people:
 
 - name: João Pedro Gomes
   pic: JoaoPedroGomes
-  position: 
+  position: Associate Professor (IST)
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Duarte Leão
+  pic: NoPhoto
+  position: Research Fellow
   social:
     - icon: fas
       title: user
@@ -125,7 +173,7 @@ people:
 
 - name: Filipa Lino
   pic: FilipaLino
-  position: 
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -141,7 +189,7 @@ people:
 
 - name: Manuel Marques
   pic: ManuelMArques
-  position: 
+  position: Post-Doc Researcher
   social:
     - icon: fas
       title: user
@@ -155,9 +203,25 @@ people:
       title: linkedin-in
       url:
 
+- name: Gonçalo Matos
+  pic: NoPhoto
+  position: Ph.D. Student
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+  
 - name: Gabriel Moreira
   pic: GabrielMoreira
-  position: 
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -172,8 +236,8 @@ people:
       url:
 
 - name: Hemaxi Narotamo
-  pic: 
-  position: 
+  pic: NoPhoto
+  position: Past Member - Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -189,7 +253,7 @@ people:
 
 - name: Jacinto Nascimento
   pic: JacintoNascimento
-  position: 
+  position: Assistant Professor (IST)
   social:
     - icon: fas
       title: user
@@ -204,8 +268,8 @@ people:
       url:
 
 - name: Bárbara Tavares
-  pic: 
-  position: 
+  pic: NoPhoto
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -221,7 +285,7 @@ people:
 
 - name: Carlos Santiago
   pic: CarlosSantiago
-  position: 
+  position: Assistant Researcher and Invited Assistent Professor
   social:
     - icon: fas
       title: user
@@ -237,7 +301,7 @@ people:
 
 - name: Margarida Silveira
   pic: MargaridaSilveira
-  position: 
+  position: Associate Professor (IST)
   social:
     - icon: fas
       title: user
@@ -252,8 +316,8 @@ people:
       url:
 
 - name: Pedro Valdeira
-  pic: 
-  position: 
+  pic: NoPhoto
+  position: Past Member - Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -269,7 +333,7 @@ people:
 
 - name: David Vicente
   pic: DavidVicente
-  position: 
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -285,7 +349,7 @@ people:
 
 - name: Rúben Viegas
   pic: RubenViegas
-  position: 
+  position: Ph.D. Student
   social:
     - icon: fas
       title: user
@@ -300,8 +364,8 @@ people:
       url:
 
 - name: João Xavier
-  pic: 
-  position: 
+  pic: NoPhoto
+  position: Associate Professor (IST)
   social:
     - icon: fas
       title: user
