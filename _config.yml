@@ -14,32 +14,31 @@ people:
   pic: JPCosteira
   position: Principal Investigator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - icon: fas
+      title: user
+      url: https://jpcosteira.github.io/
+
+    - icon: fab
+      title: google-scholar
+      url: https://scholar.google.com/citations?user=Xi33QRIAAAAJ&hl=pt-PT&oi=ao 
+
+    - icon: fab
+      title: linkedin-in
+      url: https://www.linkedin.com/in/joao-paulo-costeira-b4a5401/ 
 
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: researchgate
+    url: https://www.researchgate.net/lab/Signal-and-Image-Processing-Group-Joao-Costeira 
   - title: github
     url: https://github.com/sipg-isr
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Av. Rovisco Pais 1
+  - line: 1049-001 Lisboa
 
 # Build settings
 markdown: kramdown
