@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -339,7 +339,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    
     font-weight: 400;
 }
 
@@ -374,7 +374,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(54, 157, 254, 0.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
