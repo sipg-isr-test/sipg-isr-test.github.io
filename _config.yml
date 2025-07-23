@@ -26,6 +26,294 @@ people:
       title: linkedin-in
       url: https://www.linkedin.com/in/joao-paulo-costeira-b4a5401/ 
 
+- name: Pedro Aguiar
+  pic: PedroAguiar
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Diogo Araújo
+  pic: 
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+
+- name: Francisco Maria Calisto
+  pic: FransciscoCalisto
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: João Carvalho
+  pic: JoaoCarvalho
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Miguel Dias
+  pic: MiguelDias
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: João Pedro Gomes
+  pic: JoaoPedroGomes
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Filipa Lino
+  pic: FilipaLino
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Manuel Marques
+  pic: ManuelMArques
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Gabriel Moreira
+  pic: GabrielMoreira
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Hemaxi Narotamo
+  pic: 
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Jacinto Nascimento
+  pic: JacintoNascimento
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Bárbara Tavares
+  pic: 
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Carlos Santiago
+  pic: CarlosSantiago
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Margarida Silveira
+  pic: MargaridaSilveira
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Pedro Valdeira
+  pic: 
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: David Vicente
+  pic: DavidVicente
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: Rúben Viegas
+  pic: RubenViegas
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
+- name: João Xavier
+  pic: 
+  position: 
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
