@@ -12,7 +12,8 @@ description: "The Signal and Image Processing Group (SIPG) at ISR Lisbon conduct
 people:
 - name: João Paulo Costeira
   pic: JPCosteira
-  position: Principal Investigator
+  position: Associate Professor (IST)
+  category: Principal Investigator
   social:
     - icon: fas
       title: user
@@ -28,7 +29,8 @@ people:
 
 - name: Pedro Aguiar
   pic: PedroAguiar
-  position: 
+  position: Associate Professor (IST)
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -45,6 +47,7 @@ people:
 - name: Diogo Araújo
   pic: NoPhoto
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -62,6 +65,7 @@ people:
 - name: Francisco Maria Calisto
   pic: FransciscoCalisto
   position: Research Assistant
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -78,6 +82,7 @@ people:
 - name: João Carvalho
   pic: JoaoCarvalho
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -94,6 +99,7 @@ people:
 - name: José Celestino
   pic: NoPhoto
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -110,6 +116,7 @@ people:
 - name: Miguel Dias
   pic: MiguelDias
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -126,6 +133,7 @@ people:
 - name: Manuel Ferreira
   pic: NoPhoto
   position: Research Fellow
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -142,6 +150,7 @@ people:
 - name: João Pedro Gomes
   pic: JoaoPedroGomes
   position: Associate Professor (IST)
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -158,6 +167,7 @@ people:
 - name: Duarte Leão
   pic: NoPhoto
   position: Research Fellow
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -174,6 +184,7 @@ people:
 - name: Filipa Lino
   pic: FilipaLino
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -190,6 +201,7 @@ people:
 - name: Manuel Marques
   pic: ManuelMArques
   position: Post-Doc Researcher
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -206,6 +218,7 @@ people:
 - name: Gonçalo Matos
   pic: NoPhoto
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -222,6 +235,7 @@ people:
 - name: Gabriel Moreira
   pic: GabrielMoreira
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -236,8 +250,9 @@ people:
       url:
 
 - name: Hemaxi Narotamo
-  pic: NoPhoto
-  position: Past Member - Ph.D. Student
+  pic: HemaxiNarotamo
+  position: Ph.D. Student
+  category: Past Member
   social:
     - icon: fas
       title: user
@@ -254,6 +269,7 @@ people:
 - name: Jacinto Nascimento
   pic: JacintoNascimento
   position: Assistant Professor (IST)
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -270,6 +286,7 @@ people:
 - name: Bárbara Tavares
   pic: NoPhoto
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -286,6 +303,7 @@ people:
 - name: Carlos Santiago
   pic: CarlosSantiago
   position: Assistant Researcher and Invited Assistent Professor
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -302,6 +320,7 @@ people:
 - name: Margarida Silveira
   pic: MargaridaSilveira
   position: Associate Professor (IST)
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -316,8 +335,9 @@ people:
       url:
 
 - name: Pedro Valdeira
-  pic: NoPhoto
-  position: Past Member - Ph.D. Student
+  pic: PedroValdeira
+  position: Ph.D. Student
+  category: Past Member
   social:
     - icon: fas
       title: user
@@ -334,6 +354,7 @@ people:
 - name: David Vicente
   pic: DavidVicente
   position: Ph.D. Student
+  category: Past Member
   social:
     - icon: fas
       title: user
@@ -350,6 +371,7 @@ people:
 - name: Rúben Viegas
   pic: RubenViegas
   position: Ph.D. Student
+  category: Current Member
   social:
     - icon: fas
       title: user
@@ -366,6 +388,7 @@ people:
 - name: João Xavier
   pic: NoPhoto
   position: Associate Professor (IST)
+  category: Current Member
   social:
     - icon: fas
       title: user

@@ -276,7 +276,10 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    overflow: hidden;
 }
+
+
 
 header .intro-text {
     padding-top: 100px;
@@ -300,14 +303,25 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-about {
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom:5px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
@@ -315,7 +329,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 20px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;

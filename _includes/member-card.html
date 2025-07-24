@@ -1,0 +1,14 @@
+<div class="team-member">
+    <img src="img/team/{{ include.member.pic }}.jpg" class="img-responsive img-circle" style="width: 180px; height: 180px; object-fit: cover; margin: 0 auto;" alt="{{ include.member.name }}">
+    <h4>{{ include.member.name }}</h4>
+    <p class="text-muted">{{ include.member.position }}</p>
+    <ul class="list-inline social-buttons">
+        {% for network in include.member.social %}
+        <li>
+            <a href="{{ network.url }}">
+                <i class="{{ network.icon }} fa-{{ network.title }}"></i>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
