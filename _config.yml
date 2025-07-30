@@ -283,23 +283,6 @@ people:
       title: linkedin-in
       url:
 
-- name: Bárbara Tavares
-  pic: NoPhoto
-  position: Ph.D. Student
-  category: Current Member
-  social:
-    - icon: fas
-      title: user
-      url: 
-
-    - icon: fab
-      title: google-scholar
-      url: 
-
-    - icon: fab
-      title: linkedin-in
-      url:
-
 - name: Carlos Santiago
   pic: CarlosSantiago
   position: Assistant Researcher and Invited Assistent Professor
@@ -333,6 +316,24 @@ people:
     - icon: fab
       title: linkedin-in
       url:
+
+- name: Bárbara Tavares
+  pic: BarbaraTavares
+  position: Ph.D. Student
+  category: Current Member
+  social:
+    - icon: fas
+      title: user
+      url: 
+
+    - icon: fab
+      title: google-scholar
+      url: 
+
+    - icon: fab
+      title: linkedin-in
+      url:
+
 
 - name: Pedro Valdeira
   pic: PedroValdeira
